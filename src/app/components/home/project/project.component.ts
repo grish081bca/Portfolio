@@ -12,46 +12,15 @@ export class ProjectComponent implements OnInit {
     {
       imgs: [
 
-        '../../../../assets/images/health-declaration/1.jpeg',
-        '../../../../assets/images/health-declaration/2.jpeg',
-        '../../../../assets/images/health-declaration/3.jpeg',
-        '../../../../assets/images/health-declaration/4.jpeg',
-        '../../../../assets/images/health-declaration/5.jpeg',
+        '../../../../assets/images/E-Commerce/frontend4.png',
+        '../../../../assets/images/E-Commerce/frontend3.png',
+        '../../../../assets/images/E-Commerce/frontend2.png',
+        '../../../../assets/images/E-Commerce/frontend1.png',
       ],
-      Title: 'Health Declaration',
-      Description: 'A website to declare health and manage the epidemic situation in Da Nang city (school project)',
-      Technologies: ['Angular', 'TailwindCss', 'Spring Boot', 'MySQL'],
+      Title: 'E-Commerce',
+      Description: 'A full-stack e-commerce platform that allows users to browse, buy, and manage products. The application supports secure authentication, product management, and user roles.',
+      Technologies: ['Angular 18', 'SCSS', 'Spring Boot', 'MySQL', 'HTML', 'Typescript', 'Spring Security', 'JWT', 'Maven', 'Monolithic Architecture', 'REST API', 'Java 21'],
       ghLink: 'https://github.com/lethanhtuan939/Health-Declaration',
-    },
-    {
-      imgs: [
-        '../../../../assets/images/hotel-reservation/6.png',
-        '../../../../assets/images/hotel-reservation/5.png',
-        '../../../../assets/images/hotel-reservation/1.png',
-        '../../../../assets/images/hotel-reservation/2.png',
-        '../../../../assets/images/hotel-reservation/3.png',
-        '../../../../assets/images/hotel-reservation/4.png',
-      ],
-      Title: 'Hotel Reservation App',
-      Description: 'A application to reserve rooms in a hotel (school project), use a website to manage the hotel, and a mobile app for customers',
-      Technologies: ['Spring Boot', 'MySQL', 'Android', 'Html', 'CSS', 'JavaScript'],
-      ghLink: 'https://github.com/lethanhtuan939/Hotel-Reservation-App',
-      demoLink: ''
-    },
-    {
-      imgs: [
-        '../../../../assets/images/vegetfood/1.png',
-        '../../../../assets/images/vegetfood/2.png',
-        '../../../../assets/images/vegetfood/3.png',
-        '../../../../assets/images/vegetfood/4.png',
-        '../../../../assets/images/vegetfood/5.png',
-        '../../../../assets/images/vegetfood/6.png',
-        '../../../../assets/images/vegetfood/7.png',
-      ],
-      Title: 'Veget Food',
-      Description: 'A ecommerce website for vegetarian food (school project)',
-      Technologies: ['Spring Boot', 'MySQL', 'Thymeleaf'],
-      ghLink: 'https://github.com/lethanhtuan939/VegetFood-SpringBoot',
       demoLink: ''
     },
   ]
