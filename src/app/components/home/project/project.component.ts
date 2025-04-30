@@ -20,7 +20,7 @@ export class ProjectComponent implements OnInit {
       Title: 'E-Commerce',
       Description: 'A full-stack e-commerce platform that allows users to browse, buy, and manage products. The application supports secure authentication, product management, and user roles.',
       Technologies: ['Angular 18', 'SCSS', 'Spring Boot', 'MySQL', 'HTML', 'Typescript', 'Spring Security', 'JWT', 'Maven', 'Monolithic Architecture', 'REST API', 'Java 21'],
-      ghLink: 'https://github.com/lethanhtuan939/Health-Declaration',
+      ghLink: 'https://github.com/grish081bca/Ramro_Bazar-Backend-',
       demoLink: ''
     },
   ]
