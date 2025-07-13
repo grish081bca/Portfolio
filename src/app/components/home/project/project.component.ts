@@ -23,6 +23,25 @@ export class ProjectComponent implements OnInit {
       ghLink: 'https://github.com/grish081bca/Ramro_Bazar-Backend-',
       demoLink: ''
     },
+    {
+      imgs : [
+        '../../../../assets/images/Food_Rescue/Food Rescue 1.png',
+        '../../../../assets/images/Food_Rescue/Food Rescue 2.png',
+        '../../../../assets/images/Food_Rescue/Food Rescue 3.png',
+        '../../../../assets/images/Food_Rescue/Food Rescue 4.png',
+        '../../../../assets/images/Food_Rescue/Food Rescue 5.png',
+        '../../../../assets/images/Food_Rescue/Food Rescue 6.png',
+        '../../../../assets/images/Food_Rescue/Food Rescue 7.png',
+        '../../../../assets/images/Food_Rescue/Food Rescue 8.png',
+        '../../../../assets/images/Food_Rescue/Food Rescue 9.png',
+        '../../../../assets/images/Food_Rescue/Food Rescue 10.png',
+      ],
+      Title : 'Food_Rescue',
+      Description : 'Food Rescue is a cross-platform solution designed to connect restaurants, industries, and food providers with customers seeking affordable meals. Businesses can post leftover food that would otherwise go to waste, and customers can order these meals at a significantly reduced cost.',
+      Technologies : ['React', 'Flutter', 'Java', 'SpringBoot', 'RestAPIs', 'Mysql','Monolithic Architecture', 'Spring Security', 'JWT', 'Meven', 'SCSS', 'HTML5'],
+      ghLink : 'https://github.com/gitSuyog404/nullPointers_hackForBusiness',
+      demoLink: ''
+    }
   ]
   customOptions: OwlOptions = {
     loop: true,
