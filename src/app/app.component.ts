@@ -16,10 +16,10 @@ export class AppComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.titleService.setTitle("Grish Shrestha | Web Developer");
+    this.titleService.setTitle("Grish Shrestha | Software Developer");
     this.metaService.addTags([
-      { name: 'keywords', content: 'Full Stack Developer, Java, Spring Boot, Angular, Web Developer, Grish Shrestha, Software Engineer, Frontend, Backend, Web Applications' },
-      { name: 'description', content: 'Grish Shrestha is a passionate Full Stack Developer skilled in building web applications using Java Spring Framework and Angular. Eager to learn, contribute, and grow through real-world development experience.' }
+      { name: 'keywords', content: 'Full Stack Developer, Java, Spring Boot, Angular, Software Developer, Grish Shrestha, Software Engineer, Frontend, Backend, Software Applications' },
+      { name: 'description', content: 'Grish Shrestha is a passionate Full Stack Developer skilled in building Software applications using Java Spring Framework and Angular. Eager to learn, contribute, and grow through real-world development experience.' }
     ]);
     this.metaService.updateTag({ name: 'author', content: 'Grish Shrestha' });
 
